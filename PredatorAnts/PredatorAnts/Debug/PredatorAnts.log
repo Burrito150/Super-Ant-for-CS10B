@@ -1,0 +1,7 @@
+﻿  SuperAnt.cpp
+c:\users\nsszw\downloads\ants-and-bugs-master\ants-and-bugs-master\superant.cpp(132): error C2065: 'RED': undeclared identifier
+c:\users\nsszw\downloads\ants-and-bugs-master\ants-and-bugs-master\superant.cpp(132): error C3861: 'textcolor': identifier not found
+  World.cpp
+c:\users\nsszw\downloads\ants-and-bugs-master\ants-and-bugs-master\world.cpp(20): warning C4101: 'spawn': unreferenced local variable
+c:\users\nsszw\downloads\ants-and-bugs-master\ants-and-bugs-master\world.cpp(105): warning C4101: 'spawn': unreferenced local variable
+  Generating Code...
